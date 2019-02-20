@@ -7,6 +7,7 @@ This line executes the ros command "rostopic pub -1 /turtle1/cmd_vel geometry_ms
 ## Examples
  - "Left"
  - "Left turn"
+ - "Bank left"
 
 
 ## Credits
